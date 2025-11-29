@@ -88,7 +88,6 @@ Get One Snippet (GET)
 
 URL: http://localhost:3000/api/snippets/692ab93601be67694fcf5b33
 
-Include screenshots of each request and response in your submission.
 
 Optional Frontend Demo
 Open index.html in a browser
@@ -102,7 +101,10 @@ fetch("http://localhost:3000/api/snippets")
   .then(res => res.json())
   .then(data => console.log(data));
 </script>
+
+
 Reflection (200–300 words)
+
 This project taught me how to design and implement a full-stack RESTful API. I learned to structure a Node.js project with Express and MongoDB, define data schemas with Mongoose, and handle requests safely using query parameters. Testing with Postman reinforced my understanding of HTTP methods and JSON data.
 
 Additionally, I learned the importance of security by using .gitignore and .env files to protect sensitive credentials. Deploying the backend on Render exposed me to real-world hosting environments and the process of connecting a live server to a database.
@@ -119,15 +121,10 @@ Deployment	Project deployed on Render; public URL is working.
 Testing	API tested using Postman; screenshots included.
 
 Screenshots
-Include images of Postman requests/responses for each endpoint:
+Include images of Postman requests/responses for each endpoint will be added as a part of zip file for my assignment submission.
 
-Create Snippet (POST)
 
-Get All Snippets (GET)
 
-Filter by Language (GET)
-
-Get One Snippet (GET)
 
 Demo Video
 Link: [Insert your 3–5 minute demo video link here]
