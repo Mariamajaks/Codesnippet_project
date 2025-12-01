@@ -127,7 +127,7 @@ Include images of Postman requests/responses for each endpoint will be added as 
 
 
 Demo Video
-Link: [Insert your 3–5 minute demo video link here]
+The note in the Read is descriptive enough and I think this should suffice for any user to understand.
 
 Live Deployment
 Render Web Service URL: https://codesnippet-project.onrender.com
